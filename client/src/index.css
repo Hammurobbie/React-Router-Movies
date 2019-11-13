@@ -47,8 +47,8 @@ body {
   margin: 0 10px;
 }
 .saved-active {
-  color: blue;
-  border: 1px solid grey;
+  color: linen;
+  background-color: steelblue;
   padding: 5px;
 }
 .save-wrapper {
